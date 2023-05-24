@@ -19,9 +19,9 @@ Feel free to explore my repositories and projects. If you have any questions or 
 ## Get in Touch
 
 <p align="center">
-  <a href="https://www.instagram.com/cesar.pr30/"><img src="https://github.com/CesarPR30/assets/blob/main/instagram_button.png" alt="Instagram" width="150px"></a>
+  <a href="https://www.instagram.com/cesar.pr30/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" width="150px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CesarPR30"><img src="https://github.com/CesarPR30/assets/blob/main/github_button.png" alt="GitHub" width="150px"></a>
+  <a href="https://github.com/CesarPR30"><img src="[https://github.com/CesarPR30/assets/blob/main/github_button.png](https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png)" alt="GitHub" width="150px"></a>
 </p>
 
 ## Skills
@@ -34,35 +34,6 @@ I am constantly learning and exploring new technologies and methodologies. If yo
 ## Stats
 
 <img align="center" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cesarpr30&show_icons=true&hide_border=true" />
-
-## Projects
-
-Here are a few notable projects I have worked on:
-
-- **Project 1:** [Project Name](link)
-  Description: Brief description of the project.
-  
-- **Project 2:** [Project Name](link)
-  Description: Brief description of the project.
-
-Feel free to check out the complete list of my projects in the [Projects](https://github.com/CesarPR30?tab=repositories) section.
-
-## Contributions
-
-I am an active contributor to open-source projects. Here are a few projects I have contributed to:
-
-- **Project 1:** [Project Name](link)
-  Description: Brief description of the project and my contribution.
-  
-- **Project 2:** [Project Name](link)
-  Description: Brief description of the project and my contribution.
-
-You can find more about my contributions in the [Contributions](https://github.com/CesarPR30?tab=repositories&type=source) section.
-
-## Education
-
-- University: UTEC
-- Major: Data Science
 
 ## Let's Connect
 
