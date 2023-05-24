@@ -1,48 +1,148 @@
-# Cesar Pajuelo
+<!DOCTYPE html>
+<html lang="en">
 
-## Introduction
-Hello there! I'm Cesar Pajuelo, a passionate Data Science student at UTEC. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and explorations in the world of data analysis, machine learning, and more. I have a diverse skill set, ranging from programming languages like C++ and Python to creative tools like Photoshop, Premier, and Illustrator. Additionally, I have experience working with databases such as MySQL and tools like Docker and PGAdmin. 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cesar Pajuelo</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
 
-Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, don't hesitate to reach out.
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
 
-## Get in Touch
-- Instagram: [@cesar.pr30](https://www.instagram.com/cesar.pr30/)
-- GitHub: [CesarPR30](https://github.com/CesarPR30)
+    h1 {
+      text-align: center;
+    }
 
-## Skills
-- Programming: C++, Python
-- Design Tools: Photoshop, Premier, Illustrator
-- Databases: MySQL, PGAdmin
-- DevOps: Docker
+    p {
+      margin-top: 0;
+    }
 
-I am constantly learning and exploring new technologies and methodologies. If you have any recommendations or suggestions, I'd love to hear them.
+    .logo {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
 
-## Projects
-Here are a few notable projects I have worked on:
+    .icon {
+      color: #333;
+    }
 
-- Project 1: [Project Name](link)
-  Description: Brief description of the project.
-  
-- Project 2: [Project Name](link)
-  Description: Brief description of the project.
+    .icon-link {
+      text-decoration: none;
+    }
 
-Feel free to check out the complete list of my projects in the [Projects](https://github.com/CesarPR30?tab=repositories) section.
+    .projects-list {
+      list-style-type: none;
+      padding: 0;
+    }
 
-## Contributions
-I am an active contributor to open-source projects. Here are a few projects I have contributed to:
+    .projects-list li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
 
-- Project 1: [Project Name](link)
-  Description: Brief description of the project and my contribution.
-  
-- Project 2: [Project Name](link)
-  Description: Brief description of the project and my contribution.
+<body>
+  <div class="container">
+    <h1>Cesar Pajuelo</h1>
+    <p>Student of Data Science at UTEC</p>
 
-You can find more about my contributions in the [Contributions](https://github.com/CesarPR30?tab=repositories&type=source) section.
+    <hr>
 
-## Education
-- University: UTEC
-- Major: Data Science
+    <h2>Get in Touch</h2>
+    <ul>
+      <li>
+        <a href="https://www.instagram.com/cesar.pr30" class="icon-link">
+          <img src="https://example.com/instagram-logo.png" alt="Instagram" class="logo">
+          @cesar.pr30
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/CesarPR30" class="icon-link">
+          <img src="https://example.com/github-logo.png" alt="GitHub" class="logo">
+          CesarPR30
+        </a>
+      </li>
+    </ul>
 
-## Let's Connect
-I am always excited to connect with fellow developers and data enthusiasts. Feel free to reach out to me through any of the channels mentioned above. Let's learn and grow together!
+    <hr>
 
+    <h2>Skills</h2>
+    <ul>
+      <li>C++</li>
+      <li>Python</li>
+      <li>Photoshop</li>
+      <li>Premier</li>
+      <li>Illustrator</li>
+      <li>MySQL</li>
+      <li>Docker</li>
+      <li>PGAdmin</li>
+    </ul>
+
+    <hr>
+
+    <h2>Projects</h2>
+    <ul class="projects-list">
+      <li>
+        <a href="#" class="icon-link">
+          <img src="https://example.com/project1-logo.png" alt="Project 1" class="logo">
+          Project 1
+        </a>
+        <p>Brief description of the project.</p>
+      </li>
+      <li>
+        <a href="#" class="icon-link">
+          <img src="https://example.com/project2-logo.png" alt="Project 2" class="logo">
+          Project 2
+        </a>
+        <p>Brief description of the project.</p>
+      </li>
+    </ul>
+
+    <hr>
+
+    <h2>Contributions</h2>
+    <ul class="projects-list">
+      <li>
+        <a href="#" class="icon-link">
+          <img src="https://example.com/contribution1-logo.png" alt="Contribution 1" class="logo">
+          Contribution 1
+        </a>
+        <p>Brief description of the project and my contribution.</p>
+      </li>
+      <li>
+        <a href="#" class="icon-link">
+          <img src="https://example.com/contribution2-logo.png" alt="Contribution 2" class="logo">
+          Contribution 2
+        </a>
+        <p>Brief description of the project and my contribution.</p>
+      </li>
+    </ul>
+
+    <hr>
+
+    <h2>Education</h2>
+    <p>University: UTEC</p>
+    <p>Major: Data Science</p>
+
+    <hr>
+
+    <h2>Let's Connect</h2>
+    <p>I am always excited to connect with fellow developers and data enthusiasts. Let's learn and grow together!</p>
+  </div>
+</body>
+
+</html>
