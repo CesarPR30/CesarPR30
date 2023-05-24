@@ -5,7 +5,7 @@
 <h1 align="center">Cesar Pajuelo</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/cesar.pr30/"><img src="https://github.com/CesarPR30/assets/blob/main/instagram.png" alt="Instagram" width="30px"></a>
+  <a href="https://www.instagram.com/cesar.pr30/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" width="30px"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/CesarPR30"><img src="https://github.com/CesarPR30/assets/blob/main/github.png" alt="GitHub" width="30px"></a>
 </p>
