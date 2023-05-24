@@ -18,10 +18,6 @@ Feel free to explore my repositories and projects. If you have any questions or 
 
 ## Skills
 
-<p align="center">
-  <img src="https://github.com/CesarPR30/assets/blob/main/skills.png" alt="Skills" width="600px">
-</p>
-
 I am constantly learning and exploring new technologies and methodologies. If you have any recommendations or suggestions, I'd love to hear them.
 ## Stats
 
