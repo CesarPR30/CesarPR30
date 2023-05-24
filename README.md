@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.instagram.com/cesar.pr30/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" width="30px"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/CesarPR30"><img src="https://github.com/CesarPR30/assets/blob/main/github.png" alt="GitHub" width="30px"></a>
 </p>
 
 ## Introduction
@@ -16,13 +15,6 @@ Hello there! I'm Cesar Pajuelo, a passionate Data Science student at UTEC. Welco
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, don't hesitate to reach out.
 
-## Get in Touch
-
-<p align="center">
-  <a href="https://www.instagram.com/cesar.pr30/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" width="150px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CesarPR30"><img src="[https://github.com/CesarPR30/assets/blob/main/github_button.png](https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png)" alt="GitHub" width="150px"></a>
-</p>
 
 ## Skills
 
