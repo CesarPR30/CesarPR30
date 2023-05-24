@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/CesarPR30/assets/blob/main/profile_banner.png" alt="Cesar Pajuelo" width="800px">
+  <img src="https://github.com/CesarPR30/assets/blob/main/profile_banner.png" alt="César Eduardo Pajuelo Reyes" width="800px">
 </p>
 
-<h1 align="center">Cesar Pajuelo</h1>
+<h1 align="center">César Eduardo Pajuelo Reyes</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/cesar.pr30/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" width="30px"></a>
@@ -31,6 +31,9 @@ Feel free to explore my repositories and projects. If you have any questions or 
 </p>
 
 I am constantly learning and exploring new technologies and methodologies. If you have any recommendations or suggestions, I'd love to hear them.
+## Stats
+
+<img align="left" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cesarpr30&show_icons=true&hide_border=true" />
 
 ## Projects
 
