@@ -14,7 +14,7 @@ Hi, I'm Cesar Pajuelo!
 
 ## Introduction
 
-Hello there! I'm Cesar Pajuelo, a passionate Data Science student at UTEC. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and explorations in the world of data analysis, machine learning, and more. I have a diverse skill set, ranging from programming languages like C++ and Python to creative tools like Photoshop, Premier, and Illustrator. Additionally, I have experience working with databases such as MySQL and tools like Docker and PGAdmin.
+Hello there! I'm Cesar Pajuelo, a passionate Data Science student at UTEC. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and explorations in the world of data analysis, machine learning, and more. I have a diverse skill set, ranging from programming languages like C++ and Python. Additionally, I have experience working with databases such as MySQL and tools like Docker and PGAdmin.
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, don't hesitate to reach out.
 
