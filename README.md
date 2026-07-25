@@ -7,10 +7,6 @@ Hi, I'm Cesar Pajuelo!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;DS%20|%20AI%20|%20ML%20;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/cesar.pr30/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" width="30px"></a>
-  &nbsp;&nbsp;
-</p>
 
 ## Introduction
 
