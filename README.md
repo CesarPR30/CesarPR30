@@ -20,7 +20,6 @@ Feel free to explore my repositories and projects. If you have any questions or 
 I am constantly learning and exploring new technologies and methodologies. If you have any recommendations or suggestions, I'd love to hear them.
 ## Stats
 
-<img align="center" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cesarpr30&show_icons=true&hide_border=true" />
 
 ## Let's Connect
 
