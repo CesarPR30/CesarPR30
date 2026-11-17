@@ -91,8 +91,11 @@
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CesarPR30&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarPR30&layout=compact&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CesarPR30&theme=github" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CesarPR30&theme=github" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CesarPR30&hide_border=true" />
 </p>
 
 ---
